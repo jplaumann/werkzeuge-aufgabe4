@@ -1,6 +1,6 @@
-##Ich bin eine Überschrift
+## Ich bin eine Überschrift
 
-_Das hier ist sehr wichtig._
+__Das hier ist sehr wichtig.__
 *Dies ist auch vom Text hervorgehoben.*
 
-####Ich bin eine kleinere Überschrift
+#### Ich bin eine kleinere Überschrift
